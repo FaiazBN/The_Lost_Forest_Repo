@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87f8837f3f2b0f41b1f8cf63cd56328, type: 3}
+  m_Name: B 4
+  m_EditorClassIdentifier: 
+  storyText: 'Without giving any second thought you attacked the guy. The guy is
+    dead. You started to look around. Because of fear, you couldn''t look around.
+    But now you notice some really bizarre which shook your spine. Around 20 feet
+    in front of you there is an aircraft. The way it crashed was exactly like yours.
+    Wait a minute. Now you decide to look at the man you just killed. It''s you.
+    The man looks exactly looks like you....
+
+
+
+
+
+
+
+    Press 1'
+  nextState:
+  - {fileID: 11400000, guid: 7ae70754df4924848af12e57ca3ca0ff, type: 2}

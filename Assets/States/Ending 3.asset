@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87f8837f3f2b0f41b1f8cf63cd56328, type: 3}
+  m_Name: Ending 3
+  m_EditorClassIdentifier: 
+  storyText: 'To be continued..........
+
+    
+
+    I am too lazy to continue this
+    story. But I promise I will. I would highly recommend you to start this game
+    again and experience other consequences of your other choices.
+
+    
+
+    1.
+    Play again to experience other outcomes.
+
+    
+
+    2. Quit'
+  nextState:
+  - {fileID: 11400000, guid: c684765a12c6906419436f0e84ff9a11, type: 2}
+  - {fileID: 11400000, guid: a73141d5d6ebc744189d17391bd58fd0, type: 2}

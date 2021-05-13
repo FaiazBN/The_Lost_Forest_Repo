@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87f8837f3f2b0f41b1f8cf63cd56328, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to the game. It's just a basic text story adventure game. I'll
+    do more to it in the future. For now, enjoy the story. I would highly encourage
+    you to try again after you have finished the game to experience other outcomes.\r\n\r\nRead
+    carefully and choose your option. Press 1  to choose option 1 and Press 2 to
+    choose option 2.\r\n\r\n\r\n Press 1 to continue..................."
+  nextState:
+  - {fileID: 11400000, guid: c684765a12c6906419436f0e84ff9a11, type: 2}

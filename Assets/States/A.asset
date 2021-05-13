@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87f8837f3f2b0f41b1f8cf63cd56328, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: 
+  storyText: 'Your name is Adrian Antonov.
+
+    You are a pilot of an aircraft named
+    Sukhoi Su 30. You were flying at a speed of 1350 km/h. Suddenly everything went
+    black and the very next thing you know is your aircraft was crashed into a forest.
+
+
+
+
+
+    Press
+    1'
+  nextState:
+  - {fileID: 11400000, guid: c9bdcc212f9a7094ea6eadee74192013, type: 2}
